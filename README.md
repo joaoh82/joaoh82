@@ -6,6 +6,8 @@
  - [Here it is my LinkedIn!](https://www.linkedin.com/in/jo%C3%A3o-henrique-machado-silva-54884815/)
  
  - 📫 [Feel free to reach out.](https://about.me/joaoh82)
+ 
+ ![joaoh82's github stats](https://github-readme-stats.vercel.app/api?username=joaoh82&show_icons=true)
 
 <!--
 **joaoh82/joaoh82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
