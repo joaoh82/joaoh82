@@ -1,7 +1,7 @@
 ### Hi there, I am Josh, the Polyglot Programmer! 👋
 
  - Have you seen my Youtube Channel? No!! [Click here and subscribe!](https://www.youtube.com/channel/UChPHCzqD9j92zJyTLyWirfQ)
- - What about my Medium articles? [Follow me!](https://medium.com/@joaoh82)
+ - What about my Medium articles? [Follow me!](https://thepolyglotprogrammer.medium.com/)
  
  - [Here it is my LinkedIn!](https://www.linkedin.com/in/jo%C3%A3o-henrique-machado-silva-54884815/)
  
